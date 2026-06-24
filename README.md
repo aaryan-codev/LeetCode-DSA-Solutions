@@ -8,6 +8,7 @@
 | [0001-two-sum](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0001-two-sum) |
 | [0169-majority-element](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0169-majority-element) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Hash Table
 |  |
 | ------- |
@@ -29,4 +30,5 @@
 |  |
 | ------- |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
+| [3232-find-if-digit-game-can-be-won](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 <!---LeetCode Topics End-->
