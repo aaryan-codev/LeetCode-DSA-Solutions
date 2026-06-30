@@ -38,6 +38,7 @@
 | ------- |
 | [0069-sqrtx](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0069-sqrtx) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/1523-count-odd-numbers-in-an-interval-range) |
+| [2235-add-two-integers](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/2235-add-two-integers) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Binary Search
