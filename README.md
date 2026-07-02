@@ -11,6 +11,7 @@
 | [0035-search-insert-position](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0169-majority-element) |
 | [0704-binary-search](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -51,6 +52,7 @@
 | [0069-sqrtx](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0069-sqrtx) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 ## Enumeration
@@ -61,4 +63,8 @@
 |  |
 | ------- |
 | [2427-number-of-common-factors](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/2427-number-of-common-factors) |
+## Two Pointers
+|  |
+| ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 <!---LeetCode Topics End-->
