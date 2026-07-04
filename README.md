@@ -9,6 +9,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0035-search-insert-position) |
+| [0053-maximum-subarray](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0053-maximum-subarray) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -25,6 +26,7 @@
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0169-majority-element) |
 ## Sorting
 |  |
@@ -67,4 +69,8 @@
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
