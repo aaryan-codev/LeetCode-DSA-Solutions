@@ -9,6 +9,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0035-search-insert-position) |
+| [0042-trapping-rain-water](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0053-maximum-subarray) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
@@ -68,9 +69,19 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0042-trapping-rain-water) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 ## Dynamic Programming
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0053-maximum-subarray) |
+## Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0042-trapping-rain-water) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
