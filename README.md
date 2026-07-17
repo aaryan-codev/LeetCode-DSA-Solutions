@@ -17,6 +17,7 @@
 | [0169-majority-element](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0169-majority-element) |
 | [0704-binary-search](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0867-transpose-matrix](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/1672-richest-customer-wealth) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -89,6 +90,11 @@
 ## Matrix
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/1672-richest-customer-wealth) |
+## Simulation
+|  |
+| ------- |
+| [0867-transpose-matrix](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
