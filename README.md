@@ -17,6 +17,7 @@
 | [0169-majority-element](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0169-majority-element) |
 | [0704-binary-search](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1672-richest-customer-wealth](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/1672-richest-customer-wealth) |
 | [2455-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/2455-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [3232-find-if-digit-game-can-be-won](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/3232-find-if-digit-game-can-be-won) |
 ## Hash Table
@@ -84,4 +85,8 @@
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0042-trapping-rain-water) |
+## Matrix
+|  |
+| ------- |
+| [1672-richest-customer-wealth](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/1672-richest-customer-wealth) |
 <!---LeetCode Topics End-->
