@@ -15,6 +15,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0169-majority-element) |
+| [0498-diagonal-traverse](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0498-diagonal-traverse) |
 | [0704-binary-search](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0704-binary-search) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0867-transpose-matrix](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0867-transpose-matrix) |
@@ -90,11 +91,13 @@
 ## Matrix
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
+| [0498-diagonal-traverse](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
