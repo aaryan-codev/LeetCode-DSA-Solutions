@@ -11,6 +11,7 @@
 | [0035-search-insert-position](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0035-search-insert-position) |
 | [0042-trapping-rain-water](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0053-maximum-subarray) |
+| [0054-spiral-matrix](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0054-spiral-matrix) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
@@ -91,6 +92,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/1572-matrix-diagonal-sum) |
@@ -98,6 +100,7 @@
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0054-spiral-matrix) |
 | [0498-diagonal-traverse](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0498-diagonal-traverse) |
 | [0867-transpose-matrix](https://github.com/aaryan-codev/LeetCode-DSA-Solutions/tree/master/0867-transpose-matrix) |
 <!---LeetCode Topics End-->
